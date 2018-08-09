@@ -1,0 +1,7 @@
+/* hadaskhdbasjd
+akhsbdakhsdb */
+
+void funcao(){
+  // e hasbdihsabdfaishbf
+  int x = 0; // test
+}
